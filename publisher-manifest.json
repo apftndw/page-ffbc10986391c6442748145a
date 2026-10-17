@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "74d74bd23e1a3b2c1593927b",
+  "owner": "apftndw",
+  "repo": "page-ffbc10986391c6442748145a",
+  "title": "skkm33",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ffbc10986391c6442748145a",
+      "a": "skkm33",
+      "b": "",
+      "entity": "skkm33",
+      "brand": "skkm33",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d6f726113407388e24a8c0c2a27493094cf6e3aba536cca438c338aa01d1dca4",
+      "content": {
+        "keyword1": "skkm33",
+        "keyword2": "",
+        "primary_entity": "skkm33",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "skkm33 提供高效、务实的现代化网络传输与连接管理服务，为您量身定制清晰的流量方案与可靠的技术支持。",
+          "AI_DESCRIPTION": "skkm33 提供高效、务实的现代化网络传输与连接管理服务，为您量身定制清晰的流量方案与可靠的技术支持。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg: #ffffff;--text: #111111;--accent: #ff6600;--border: #cccccc;--panel: #f9f9f9;--muted: #666666}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg);color: var(--text);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6}\na {color: inherit;text-decoration: none}\nheader, section, footer {width: 100%}\n.hero-band {background-color: var(--text);color: #ffffff;padding: 5rem 2rem;border-bottom: 6px solid var(--accent)}\n.hero-band h1 {font-size: 3.5rem;font-weight: 900;letter-spacing: -0.05em;margin-bottom: 1rem}\n.hero-band p {font-size: 1.25rem;max-width: 600px;color: #dddddd;margin-bottom: 2rem}\n.hero-links {display: flex;gap: 1.5rem;font-weight: bold}\n.hero-links a {background-color: var(--accent);color: #ffffff;padding: 0.75rem 1.5rem;border-radius: 0}\n.hero-links a.outline {background-color: transparent;border: 2px solid #ffffff}\n.band-alt {background-color: var(--panel);padding: 4rem 2rem;border-bottom: 2px solid var(--border)}\n.container {max-width: 1100px;margin: 0 auto}\nh2 {font-size: 2rem;font-weight: 800;margin-bottom: 1.5rem;letter-spacing: -0.02em}\np.section-desc {color: var(--muted);margin-bottom: 2rem;font-size: 1.1rem}\n.grid-2 {display: grid;grid-template-columns: 1fr 1fr;gap: 2rem}\n@media (max-width: 768px) {\n  .grid-2 {grid-template-columns: 1fr}\n  .hero-band h1 {font-size: 2.5rem}\n}\n.ticket-card {border: 2px dashed var(--border);background-color: #ffffff;padding: 2rem;position: relative}\n.ticket-card h3 {font-size: 1.5rem;margin-bottom: 0.5rem}\n.ticket-card .price {font-size: 1.75rem;font-weight: 900;color: var(--accent);margin-bottom: 1rem}\n.ticket-card ul {list-style: none;margin-bottom: 1.5rem}\n.ticket-card li {padding: 0.3rem 0;border-bottom: 1px solid #eeeeee;font-size: 0.95rem}\n.ticket-card a.btn {display: block;text-align: center;background-color: var(--text);color: #ffffff;padding: 0.75rem;font-weight: bold}\n.table-wrap {overflow-x: auto}\ntable.comparison {width: 100%;border-collapse: collapse;background: #ffffff;border: 2px solid var(--border)}\ntable.comparison th, table.comparison td {padding: 1rem;text-align: left;border: 1px solid var(--border)}\ntable.comparison th {background-color: var(--text);color: #ffffff}\ntable.comparison tr:nth-child(even) {background-color: var(--panel)}\n.faq-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 2rem}\n@media (max-width: 768px) {\n  .faq-grid {grid-template-columns: 1fr}\n}\n.faq-item {border: 2px dashed var(--border);padding: 1.5rem;background: #ffffff}\n.faq-item h3 {font-size: 1.1rem;margin-bottom: 0.5rem;color: var(--text)}\n.faq-item p {color: var(--muted);font-size: 0.95rem}\n.steps-list {display: flex;flex-direction: column;gap: 1.5rem}\n.step-item {display: flex;gap: 1.5rem;align-items: flex-start;background: #ffffff;border: 2px dashed var(--border);padding: 1.5rem}\n.step-num {font-size: 2rem;font-weight: 900;color: var(--accent);line-height: 1}\nfooter {background-color: var(--text);color: #ffffff;padding: 3rem 2rem;text-align: center}\nfooter p {color: #aaaaaa;font-size: 0.9rem}\n</style><main>\n  <div class=\"hero-band\">\n    <div class=\"container\">\n      <h1>skkm33</h1>\n      <p>面向专业场景的网络连接管理与传输服务。提供清晰、务实的流量配置方案，确保各项数据稳定高效传输。</p>\n      <div class=\"hero-links\">\n        <a href=\"#plans\">查看方案配置</a>\n        <a href=\"#guide\" class=\"outline\">使用说明</a>\n      </div>\n    </div>\n  </div>\n\n  <section class=\"band-alt\" id=\"plans\">\n    <div class=\"container\">\n      <h2>服务方案与定价</h2>\n      <p class=\"section-desc\">以下提供详细的套餐规格、流量配额及设备并发限制。所有方案均支持按月或按年订阅。</p>\n      \n      <div class=\"table-wrap\">\n        <table class=\"comparison\">\n          <thead>\n            <tr>\n              <th>方案名称</th>\n              <th>月付价格</th>\n              <th>年付优惠</th>\n              <th>每月流量</th>\n              <th>设备并发</th>\n              <th>核心权益</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <td><strong>基础版</strong></td>\n              <td>¥15/月</td>\n              <td>¥150/年</td>\n              <td>100GB</td>\n              <td>3 台</td>\n              <td>基础流媒体解锁、普通线路节点</td>\n            </tr>\n            <tr>\n              <td><strong>旗舰版</strong></td>\n              <td>¥35/月</td>\n              <td>¥350/年</td>\n              <td>300GB</td>\n              <td>5 台</td>\n              <td>原生流媒体解锁、游戏加速优化、7x24 工单</td>\n            </tr>\n            <tr>\n              <td><strong>团队版</strong></td>\n              <td>¥85/月</td>\n              <td>¥850/年</td>\n              <td>1000GB</td>\n              <td>20 台</td>\n              <td>VIP 高带宽节点、企业定制路由、专属经理</td>\n            </tr>\n          </tbody>\n        </table>\n      </div>\n\n      <div class=\"grid-2\">\n        <div class=\"ticket-card\">\n          <h3>基础版</h3>\n          <div class=\"price\">¥15 / 月</div>\n          <ul>\n            <li>每月 100GB 基础流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>解锁基础流媒体内容</li>\n            <li>普通线路节点池接入</li>\n          </ul>\n          <a href=\"#\" class=\"btn\">选择基础版</a>\n        </div>\n        <div class=\"ticket-card\">\n          <h3>旗舰版 (推荐)</h3>\n          <div class=\"price\">¥35 / 月</div>\n          <ul>\n            <li>每月 300GB 高速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>专属优化与优先支持</li>\n          </ul>\n          <a href=\"#\" class=\"btn\">选择旗舰版</a>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"band-alt\" id=\"guide\">\n    <div class=\"container\">\n      <h2>使用说明与接入流程</h2>\n      <p class=\"section-desc\">按照以下步骤完成账户开通、客户端配置与连接测试。</p>\n      \n      <div class=\"steps-list\">\n        <div class=\"step-item\">\n          <div class=\"step-num\">01</div>\n          <div>\n            <h3>选择并开通方案</h3>\n            <p>根据您的实际流量与设备需求，挑选适合的订阅方案并完成开通流程。</p>\n          </div>\n        </div>\n        <div class=\"step-item\">\n          <div class=\"step-num\">02</div>\n          <div>\n            <h3>获取订阅凭证</h3>\n            <p>登录管理后台，复制专属的订阅链接或导入配置文件至您的客户端软件。</p>\n          </div>\n        </div>\n        <div class=\"step-item\">\n          <div class=\"step-num\">03</div>\n          <div>\n            <h3>连接网络节点</h3>\n            <p>在客户端中更新订阅并选择对应节点，一键启动连接即可开始使用。</p>\n          </div>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  <section class=\"band-alt\" id=\"faq\">\n    <div class=\"container\">\n      <h2>常见问题解答</h2>\n      <p class=\"section-desc\">关于账户、流量结算与连接配置的常见疑问。</p>\n      \n      <div class=\"faq-grid\">\n        <div class=\"faq-item\">\n          <h3>如何修改或升级我的当前方案？</h3>\n          <p>您可以在用户后台随时申请方案变更，系统将根据剩余有效天数自动折算差价进行升级。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>流量额度是每月自动重置吗？</h3>\n          <p>是的，所有套餐的流量均在每个计费周期的对应日自动重置，当月未使用完的流量不累计到下一周期。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>支持哪些主流客户端软件？</h3>\n          <p>skkm33 兼容当前各类主流传输协议客户端，支持 Windows、macOS、iOS、Android 等多平台。</p>\n        </div>\n        <div class=\"faq-item\">\n          <h3>遇到连接不稳定时如何排查？</h3>\n          <p>请先尝试更新订阅链接获取最新节点列表。如问题持续，可通过工单系统联系技术支持获取帮助。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n</main>\n<footer>\n  <div class=\"container\">\n    <p>© skkm33. All rights reserved. 现代化网络传输与连接管理服务。</p>\n  </div>\n</footer>",
+          "hash": "b23f98f85b0dc3047b22108ec547ee71d4558289dcde0a1e5caecca642516862",
+          "seo": {
+            "title": "skkm33 - 现代网络传输与连接管理服务",
+            "keywords": "skkm33,网络连接,传输管理,流量配置,技术服务",
+            "description": "skkm33 提供高效、务实的现代化网络传输与连接管理服务，为您量身定制清晰的流量方案与可靠的技术支持。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "2135",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "hrkrp.cn",
+    "host": "p-4e89cfcdc1.hrkrp.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a152d498f3472626632f39ad2d8592c092b7dc3f1cfc06b2fd74be6850a74c3e",
+    "sitemap.xml": "30291b1a014b4baed7ef1b0ff0a23179d0b72d23f341148053eae7053f1103a0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0c0db29762266f755d7a9f890a7693f29432fbdb74952c3137a2ec66bc28dcc6",
+    "robots.txt": "27bf6420fe2adcc3d4046ab8ebf0a0129a1259c1ccef51fb243adf4ca030ed16",
+    "5aa54b322e00b82fcd03d65d84429e45.txt": "5d207ebe103cb9f87d9014ba9ecef8cd70924a824e51a219e2804d6aaa589420"
+  },
+  "revision": "bf9dd4c015df467e09a3728d46f1301adb5de4f9272aa80360c2b3f27a823b3f"
+}
